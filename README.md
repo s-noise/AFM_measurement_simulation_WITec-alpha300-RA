@@ -1,5 +1,11 @@
 # AFM_measurement_simulation_WITec-alpha300-RA
 a python script for training and education purpose simulating an AFM measurement (session) of graphene on a WITec alpha300 RA device;
+
+This small program can be used for training or education purpose, e.g. in the contaxt of an online practical class
+Therefore, no initial guidance is given in the program itself and no "back" button is added for the individual steps during the simulated session.
+The individual steps of the simulation, ~"slide by slide" are listed in the "instructions" file, visible after unzip
+
+
 compatible with Windows, Linux and MAC operating systems;
 
 
