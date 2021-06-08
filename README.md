@@ -1,5 +1,5 @@
 # AFM_measurement_simulation_WITec-alpha300-RAS
-A python script for training and education purpose simulating an AFM measurement (session) of a graphene on a WITec alpha300 RAS device.
+A python script for training and education purpose simulating an AFM measurement (session) of a graphene flake on a WITec alpha300 RAS device.
 All the software related steps (from starting of the software, finding the sample position, alignment of the cantilever, till acquiring an AFM scan of high topographic resolution) are performed for a scan across a graphene flake with differnet layer numbers in AFM AC Mode.
 
 This small program can be used for training or education purpose, e.g. in the context of an online practical class.
@@ -8,7 +8,7 @@ The individual steps of the simulation, ~"slide by slide" are listed in the *AFM
 
 Compatible with Windows, Linux and MAC operating systems
 
-The program contains screenshots of licensed software. The screenshots and the instruction file for individual measuerment steps *AFM_sim_instructions.txt* are password protected. Please send me a password request by e-mail to obtain the password which is needed to run the program: [stefan.noisternig@univie.ac.at](mailto:stefan.noisternig@univie.ac.at).
+The program contains screenshots of licensed software. The screenshots and the instruction file for individual measurement steps *AFM_sim_instructions.txt* are password protected. Please send me a password request by e-mail to obtain the password which is needed to run the program: [stefan.noisternig@univie.ac.at](mailto:stefan.noisternig@univie.ac.at).
 
 
 ## Installation:
