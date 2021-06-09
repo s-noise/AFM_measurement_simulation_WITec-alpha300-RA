@@ -39,6 +39,6 @@ an example is given for Linux Systems
     python AFM_sim_v1.py
     ```
 ## License
-The License is given for the python file *AFM_sim_v1.py* itself and does not inlcude the content in the image folder.
+The License is given for the python file *AFM_sim_v1.py* itself and does not inlcude the content in the compressed *images* folders.
 
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
