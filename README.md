@@ -10,6 +10,8 @@ Compatible with Windows, Linux and MAC operating systems
 
 The program contains screenshots of licensed software. The screenshots and the instruction file for individual measurement steps *AFM_sim_instructions.txt* are password protected. Please send me a password request by e-mail to obtain the password which is needed to run the program: [stefan.noisternig@univie.ac.at](mailto:stefan.noisternig@univie.ac.at).
 
+For guidance and more information on other measuring modes please also consider the official WITec Suite Help with included operation guides to each measuring mode (since WITec Suite 5.3).
+
 
 ## Installation:
 an example is given for Linux Systems
